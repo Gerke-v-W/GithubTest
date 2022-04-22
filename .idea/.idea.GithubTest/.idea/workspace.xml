@@ -5,11 +5,16 @@
     <projectFile profileName="GithubTest">GithubTest/GithubTest.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4523e7db-27fa-42ab-9bad-e457db2fdb65" name="Changes" comment="" />
+    <list default="true" id="4523e7db-27fa-42ab-9bad-e457db2fdb65" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GithubTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GithubTest/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="289T1yzVDzuZLaOIL2ggtMKR6iR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,6 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="yaml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -64,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650627601128</updated>
-      <workItem from="1650627619002" duration="662000" />
+      <workItem from="1650627619002" duration="2019000" />
     </task>
     <servers />
   </component>
